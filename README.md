@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwaq Aljanahi
 - 👀 I’m interested in collabrating on projects.
-- 🌱 I’m currently learning C++,HTML,CSS, Javascript. 
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript. 
 - 💞️ I’m looking to collaborating on projects that use the above applications.
 - 📫 How to reach me at my email: ashwaq.aljanahi2021@gmail.com
 
